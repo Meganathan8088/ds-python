@@ -43,7 +43,7 @@ Git & GitHub
 Installation
 Clone the repository:
 
-git clone https://github.com/shubha82006-creator/Python_Projects.git
+
 Move into the project directory:
 
 cd Python_Projects
